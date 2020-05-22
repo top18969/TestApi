@@ -6254,11 +6254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\TestApi\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "C:\\Users\\User\\Documents\\TestApi\\TestApi.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\TestApi\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\TestApi\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\TestApi\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
